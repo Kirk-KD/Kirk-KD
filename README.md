@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi people 👋
+
+I'm Kirk_KD and I code stuff, likes interpreters and language designs, mainly work with other developers on open source projects.
 
 <!--
 **Kirk-KD/Kirk-KD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
